@@ -1,0 +1,40 @@
+{
+  "responseHeader":{
+    "zkConnected":true,
+    "status":0,
+    "QTime":2,
+    "params":{
+      "q":"*:*",
+      "indent":"on",
+      "start":"0",
+      "sort":"DATECOL_dt desc",
+      "fq":"OCN_s:(IN \"ATT05\" \"4159132\" \"DE43313\" \"4160891\")",
+      "rows":"2000",
+      "wt":"json"}},
+  "response":{"numFound":6315,"start":0,"docs":[
+      {
+        "ORDERNUM_s":"180825-0071",
+        "OUNUM_s":"4159132",
+        "id":"3199108",
+        "CONNECTIONTYPE_s":"Primary",
+        "SERIALNUM_s":"200875745",
+        "ASSETROWID_s":"1-2E2NOTF",
+        "DATECOL_dt":"2018-08-25T23:00:00Z",
+        "NAMEREF_s":"Connection",
+        "REGDATE_dt":"2018-08-25T00:00:00Z",
+        "ROOTASSET_s":"1-2E2NOSQ",
+        "DESCTEXT_s":"COLT Wave Metro",
+        "BCN_s":"166900",
+        "ROW_ID_s":"0-R9NH",
+        "EXTNAME_s":"Siebel",
+        "ASSETNUM_s":"1-5204555619",
+        "PRIMARYID_s":"LON/BOD/LE-243302",
+        "ROOTSERVICEID_s":"200875744",
+        "DATECOL1_s":"2018-AUG",
+        "ADDRESS_s":"      ",
+        "OCN_s":"4159132",
+        "REGDATE1_s":"2018-AUG",
+        "LEGALNAME_s":"ZZZZ FR TEST",
+        "_version_":1610500369556701188}
+      ]
+  }}
